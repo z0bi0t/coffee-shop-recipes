@@ -1,3 +1,4 @@
+
 # Pluralsight Course: Git Fundamentals
 
 ## Course Resources
