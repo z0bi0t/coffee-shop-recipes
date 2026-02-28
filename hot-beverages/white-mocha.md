@@ -34,3 +34,4 @@
 ### Step 6
 
 - Top with whipped cream.
+exit
